@@ -1,0 +1,14 @@
+@import url("css/layout.css");
+@import url("css/color.css");
+body{ 
+      background-color: #838327; 
+      font: 18px Arial, sans-serif;
+}
+
+h1{
+      color: black;
+      text-align: center;
+      text-transform: uppercase;
+}
+
+p {color: rgb(241, 1, 1);}
